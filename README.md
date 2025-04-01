@@ -68,9 +68,17 @@ TLT (Short) – Bond yields up, bonds down
 
 ---
 
-## 📦 Future Upgrades
+---
 
-- Backtesting engine for thesis performance
-- Reinforcement learning feedback loop
-- Real-time L2 data integration
-- Telegram/Slack auto alerts
+## 🚧 Roadmap & Future Upgrades
+
+| Feature                        | Description                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| 🧪 Backtesting Engine          | Evaluate performance of generated theses and ticker ideas over historical data |
+| 🧠 RL Feedback Loop            | Reinforcement learning to fine-tune signal generation based on outcomes     |
+| 🧬 Deep Learning Enhancements  | Use time-series models (TFT, LSTM) for forecasting and market structure signals |
+| 🧠 Vector Database + RAG       | Add contextual memory using FAISS or Pinecone for thesis grounding          |
+| 🛰 Real-time L2 Market Data    | Add depth of market features using Polygon/Alpaca for higher signal resolution |
+| 📲 Telegram / Slack Integration| Auto-push daily output to communication channels                            |
+| 🧰 Auto Evaluation Agent       | Score quality of theses vs actual market outcomes                           |
+
